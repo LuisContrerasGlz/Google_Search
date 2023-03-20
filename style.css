@@ -1,0 +1,36 @@
+html, body {
+    height: 75%;
+}
+
+.container {
+    height: 100%;
+}
+
+.form-rounded{
+    border-radius: 1rem;
+}
+
+.nav-link{
+    font-size: 0.9rem;
+}
+
+.btn-main{
+    color: slategray;
+    background-color: snow;
+    border-color: snow;
+}
+
+.btn-main:hover{
+    background-color: floralwhite;
+    border-color: snow;
+    color: black;
+}
+
+#adv-search{
+    color: red;
+    font-size: 1.3rem;
+}
+
+#search-text{
+    font-size: 1.2rem;
+}
