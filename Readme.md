@@ -19,3 +19,5 @@ When the “Advanced Search” button is clicked, the user is taken to the searc
 “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link takes users directly to the first Google search result for the query, bypassing the normal results page.
 
 You may encounter a redirect notice when using the “I’m Feeling Lucky” button. Not to worry! This is an expected consequence of a security feature implemented by Google.
+
+Pages Link https://luiscontrerasglz.github.io/Google_Search/ 
